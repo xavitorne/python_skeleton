@@ -1,0 +1,7 @@
+recursive-include project_name/*.py
+recursive-include project_name/static *.css
+recursive-include project_name/static/images *
+recursive-include project_name/templates *.pt
+recursive-include project_name/locale/en/LC_MESSAGES *.mo
+recursive-include project_name/locale/it/LC_MESSAGES *.mo
+recursive-include project_name/locale *.pot
